@@ -15,7 +15,6 @@ int max_of_four(int a, int b, int c, int d){
     }
 } 
 
-
 int main() {
     int a, b, c, d;
     scanf("%d\n %d\n %d\n %d\n", &a, &b, &c, &d);
